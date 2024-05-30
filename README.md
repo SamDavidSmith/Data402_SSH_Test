@@ -56,4 +56,4 @@ Output: Hi SamDavidSmith/\<repo>! You've successfully authenticated, but GitHub 
 
 Now, you can clone with git clone <ssh-link> shown on Github in the directory.
 
-You will be able to push/pull ***as long as*** this second Bash window is kept open!
+You will be able to push/pull in this second Bash window ***as long as*** it is kept open!
